@@ -1,2 +1,2 @@
 # ToDo
-A basic todo website to demonstrate and apply knowledge of MERN stack
+A basic todo website to apply basic knowledge of MERN stack
